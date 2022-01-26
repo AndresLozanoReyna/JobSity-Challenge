@@ -8,9 +8,9 @@ Must have
 - cdm: npm install cypress --save-dev
 - cdm: npx cypress open     -- this will  install the Cypress folder and initialize Cypress Dashboard
 
+**Good to know: Note in the location the file is downloaded  go to the file explorer and on the URL type CMD so it automatically link the cmd to the file**
 
 ![image](https://user-images.githubusercontent.com/98426004/151077353-572986a7-79ca-489f-9e20-b7a7526bfb96.png)
-
 
 Run it:
 - From the terminal  run the following commands: 
